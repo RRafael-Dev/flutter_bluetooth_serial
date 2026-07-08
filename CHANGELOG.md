@@ -1,3 +1,7 @@
+## [0.4.1] - 2026-07-08
+
+Update to flutter 3.44.2.
+
 ## [0.4.0] - 2021-08-17
 
 Update flutter plugin v2.

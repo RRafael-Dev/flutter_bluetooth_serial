@@ -72,3 +72,8 @@
 # Scripts
 # None at the moment
 
+!android/gradle/wrapper/gradle-wrapper.jar
+!android/gradlew
+!android/gradlew.bat
+!flutter_bluetooth_serial_example.iml
+!flutter_bluetooth_serial_example_android.iml
